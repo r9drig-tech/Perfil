@@ -34,14 +34,6 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 ---
 
-## 📊 Estatísticas e Certificações:
-- ✅ Big Data & Analytics (FIAP)
-- ✅ Business Intelligence (FIAP) 
-- ✅ Data Analytics & IA (Xperiun)
-- ⏰ Engenheiro de Dados & IA (Anhanguera)
-
----
-
 💼 **Experiência Profissional**
 
 **Central IT – Tecnologia em Negócios -  Assistente de Dados** 📆 Jun/2024 – Mar/2026 
@@ -88,7 +80,7 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 ---
 
-##🎓 **Formação e Certificações**:
+## 📊 Estatísticas e Certificações:
 - **Pós-Graduação em Engenharia de Dados & IA** – Anhanguera (*Em andamento*).
 - **Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025).
 - **Certificação em Big Data & Analytics** – FIAP (2025).
