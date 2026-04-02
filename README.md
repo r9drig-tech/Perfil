@@ -1,14 +1,13 @@
-# Perfil
-
 # Rodrigo Gonçalves Salgado
-📍 Brasília – DF | 💻 Disponibilidade: Remoto/Híbrido 
 ♿ Pessoa com Deficiência Auditiva (CID H90.3)
 
+📍 Brasília – DF | 💻 Disponibilidade: Remoto/Híbrido
+ 
 ### Analista de Power BI | Especialista em BI & Dashboards | Em transição para Engenharia de Dados & IA
 
 Sou um profissional mais de 15 anos de experiência nas áreas administrativa e analítica, especializado em Análise de Dados, Power BI e Gestão de Processos. 
-Sou graduado em Gestão de Processos Gerenciais e possuo especializações em Data Analytics, Power BI & IA (Xperiun) e Big Data & Analytics (FIAP).
-Minha base técnica inclui certificações em Databricks Lakehouse Fundamentals,Tenho domínio em Power BI e Python, atuando na criação de dashboards estratégicos, modelagem de dados e definição de KPIs.
+Sou graduado em Gestão de Processos Gerenciais e possuo especializações em **Data Analytics, Power BI & IA** e **Big Data & Analytics** , **Business Intelligence**.
+Minha base técnica inclui certificações em **Databricks Lakehouse Fundamentals**, Tenho domínio em Power BI e Python, atuando na criação de dashboards estratégicos, modelagem de dados e definição de KPIs.
 
 Estou cursando pós-graduação em **Engenharia de Dados e IA** e desenvolvendo soluções escaláveis com foco em performance e automação.
 Sou orientado para resultados e melhoria contínua, com foco em transformar dados em insights estratégicos que apoiam a tomada de decisão e impulsionam a eficiência dos processos corporativos.
@@ -36,14 +35,14 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 💼 **Experiência Profissional**
 
-**Central IT – Tecnologia em Negócios -  Assistente de Dados** 📆 Jun/2024 – Mar/2026 
+**Central IT – Tecnologia em Negócios -  Assistente de Dados** | 📆 Jun/2024 – Mar/2026 
 -	Criação e manutenção de dashboards no Power BI, com foco em indicadores de desempenho.
 -	Manipulação e modelagem de dados com Power Query e Excel Intermediário ao avançado.
 -	Elaboração de relatórios gerenciais para diferentes áreas da empresa.
 -	Desenvolvimento de dashboards interativos aplicando conceitos de UX/UI e prototipagem em Figma.
 -	Automação de processos com Python (CSV) e VBA (Excel e Power BI).
 
-**Oi S.A. | Assistente II - 📆 Set/2014 – Mar/2024**
+**Oi S.A. - Assistente II | 📆 Set/2014 – Mar/2024**
 
 **Assistente de Trade Marketing II**
 - Apoio operacional e estratégico ao time de marketing.
@@ -69,11 +68,11 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 - Digitalização, conferência e arquivamento de processos jurídicos.
 - Organização de documentos e controle de fluxo documental.
 
-**Centro Educacional UniEuro - Auxiliar Administrativo** 📆 Mar/2008 – Out/2008 
+**Centro Educacional UniEuro - Auxiliar Administrativo** | 📆 Mar/2008 – Out/2008 
 - Organização de arquivos institucionais e apoio administrativo.
 - Classificação e codificação de documentos.
 
-**Superior Tribunal de Justiça (STJ) - Estagiário** 📆 Jan/2007 – Dez/2007 
+**Superior Tribunal de Justiça (STJ) - Estagiário** | 📆 Jan/2007 – Dez/2007 
 - Organização e preparação de processos jurídicos.
 - Apoio administrativo ao gabinete e atendimento a advogados.
 
@@ -95,5 +94,4 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 ## 📫 Vamos nos conectar?
 - **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/r9drig-power-bi/)
-- **Localização:** Brasília, DF 📍
 
