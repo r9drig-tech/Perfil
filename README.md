@@ -80,10 +80,10 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 ---
 
-## 📊 Estatísticas e Certificações:
+## 📊 **Formação Acadêmica e Certificações:**
 - **Pós-Graduação em Engenharia de Dados & IA** – Anhanguera (*Em andamento*).
 - **Bootcamp Gen IA & Dados** - Bradesco & DIO (*Em andamento*)
-- **Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025).
+- **Formação em Data Analytics, Power BI e IA** – Xperiun (2025).
 - **Certificação em Big Data & Analytics** – FIAP (2025).
 - **Certificação em Business Intelligence** – FIAP (2025).
 - **Databricks Lakehouse Fundamentals** – Databricks (2026).
