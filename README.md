@@ -12,8 +12,8 @@ Estou cursando pós-graduação em **Engenharia de Dados e IA** e desenvolvendo 
 ## 🛠️ No que estou trabalhando:
 - **Data Engineering:** Construção de pipelines de dados utilizando Python e Databricks.
 - **Business Intelligence:** Dashboards avançados no Power BI (DAX, Power Query e modelagem dimensional).
-- **Projetos em Destaque:** - 
-🏆 **Análise Histórica da Copa do Mundo (1930 - 2022):**Script em Python para extração de dados e dashboard interativo para análise de performance de seleções.
+- **Projetos em Destaque:**
+- 🏆 **Análise Histórica da Copa do Mundo (1930 - 2022):**Script em Python para extração de dados e dashboard interativo para análise de performance de seleções.
 -⚙️ **Automação de Relatórios:** Scripts para otimização de processos de ETL.
 
 ---
