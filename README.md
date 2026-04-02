@@ -88,7 +88,7 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 ---
 
-##🎓 Formação e Certificações:
+##🎓 **Formação e Certificações**:
 - **Pós-Graduação em Engenharia de Dados & IA** – Anhanguera (*Em andamento*).
 - **Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025).
 - **Certificação em Big Data & Analytics** – FIAP (2025).
