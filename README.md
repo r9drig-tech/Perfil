@@ -6,7 +6,7 @@
 
 ### Analista de Power BI | Especialista em BI & Dashboards | Em transição para Engenharia de Dados & IA
 
-Sou um profissional com Pessoas com Deficiência (H90.3),mais de 15 anos de experiência nas áreas administrativa e analítica, especializado em Análise de Dados, Power BI e Gestão de Processos. 
+Sou um profissional mais de 15 anos de experiência nas áreas administrativa e analítica, especializado em Análise de Dados, Power BI e Gestão de Processos. 
 Sou graduado em Gestão de Processos Gerenciais e possuo especializações em Data Analytics, Power BI & IA (Xperiun) e Big Data & Analytics (FIAP).
 Minha base técnica inclui certificações em Databricks Lakehouse Fundamentals,Tenho domínio em Power BI e Python, atuando na criação de dashboards estratégicos, modelagem de dados e definição de KPIs.
 
@@ -23,6 +23,7 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 **Visão de Negócio**:  Relatórios Gerenciais, Planejamento Estratégico e Planejamento de Rotas.
 **Ferramentas:** Excel Avançado, Git, GitHub, VS Code.
 **Cloud & Big Data:** Databricks, Fundamentos de Azure/AWS.
+
 ---
 
 ## 🛠️ No que estou trabalhando e aprendendo:
@@ -85,16 +86,16 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 - Apoio administrativo ao gabinete e atendimento a advogados.
 
 
---
+---
 
-🎓 Formação e Certificações
-**Pós-Graduação em Engenharia de Dados & IA** – em andamento (conclusão prevista: 2027)
-**Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025)
-**Certificação em Big Data & Analytics** – FIAP (2025)
-**Certificação em Business Intelligence** – FIAP (2025)
-**Databricks Lakehouse Fundamentals** – Databricks (2026)
-**Fundamentos de Engenharia de Dados** – Data Science Academy (2026)
-**Graduação em Gestão de Processos Gerenciais** – UDF (2019)
+##🎓 Formação e Certificações:
+-**Pós-Graduação em Engenharia de Dados & IA** – Anhanguera (*Em andamento*).
+-**Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025).
+-**Certificação em Big Data & Analytics** – FIAP (2025).
+-**Certificação em Business Intelligence** – FIAP (2025).
+-**Databricks Lakehouse Fundamentals** – Databricks (2026).
+-**Fundamentos de Engenharia de Dados** – Data Science Academy (2026).
+-**Graduação em Gestão de Processos Gerenciais** – UDF (2019).
 
 
 ---
