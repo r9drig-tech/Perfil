@@ -4,7 +4,7 @@
 
 ### Analista de Power BI | Especialista em BI & Dashboards | Em transição para Engenharia de Dados & IA
 
-Sou um profissional com mais de 15 anos de experiência técnica e administrativa, atualmente focado em transformar dados brutos em decisões estratégicas. 
+Sou um profissional com Pessoas com Deficiência (H90.3), mais de 15 anos de experiência técnica e administrativa, atualmente focado em transformar dados brutos em decisões estratégicas. 
 Estou cursando pós-graduação em **Engenharia de Dados e IA** e desenvolvendo soluções escaláveis com foco em performance e automação.
 
 ---
