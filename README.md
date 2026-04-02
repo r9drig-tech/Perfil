@@ -15,6 +15,7 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 
 ---
 ## 💻 Tech Stack:
+
 **Data Vis & BI:** Domínio de Power BI (DAX e Power Query), processos de ETL e Modelagem de Dados
 **Linguagens & Automação:** Python para análise e automação de dados, SQL básico e VBA para automação em Excel.
 **Design de Dados:** Aplicação de conceitos de UX/UI em dashboards utilizando Figma para prototipagem.
