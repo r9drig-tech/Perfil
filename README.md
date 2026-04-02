@@ -89,13 +89,13 @@ Sou orientado para resultados e melhoria contínua, com foco em transformar dado
 ---
 
 ##🎓 Formação e Certificações:
--**Pós-Graduação em Engenharia de Dados & IA** – Anhanguera (*Em andamento*).
--**Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025).
--**Certificação em Big Data & Analytics** – FIAP (2025).
--**Certificação em Business Intelligence** – FIAP (2025).
--**Databricks Lakehouse Fundamentals** – Databricks (2026).
--**Fundamentos de Engenharia de Dados** – Data Science Academy (2026).
--**Graduação em Gestão de Processos Gerenciais** – UDF (2019).
+- **Pós-Graduação em Engenharia de Dados & IA** – Anhanguera (*Em andamento*).
+- **Formação em Data Analytics, Power BI e IA** – Xperiun (2024–2025).
+- **Certificação em Big Data & Analytics** – FIAP (2025).
+- **Certificação em Business Intelligence** – FIAP (2025).
+- **Databricks Lakehouse Fundamentals** – Databricks (2026).
+- **Fundamentos de Engenharia de Dados** – Data Science Academy (2026).
+- **Graduação em Gestão de Processos Gerenciais** – UDF (2019).
 
 
 ---
